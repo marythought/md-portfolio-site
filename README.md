@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ed224821-a441-4601-bdb8-154d0d13aef0/deploy-status)](https://app.netlify.com/sites/marydickson/deploys)
+[Live portfolio site (in progress)](https://marydickson.netlify.app/)
+
 # eleventy-base-blog v9
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).
